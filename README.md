@@ -1,0 +1,2 @@
+# Self-playing-AI-Flappy-Bird
+Flappy bird is an extremely popular game which got popular mostly due to the fact that it was extremely tough to play and score in that game. This project tries to make that job simpler by first making the game in python using Pygame and then playing it using AI neural evolution technology namely NEAT Algorithm. We tried to make it work with generations of evolved birds which learn from their mistakes and adapt with every gen to score more and move forward.
